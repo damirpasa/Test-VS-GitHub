@@ -6,7 +6,7 @@ namespace Test_VS_GitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Buraz!");
         }
     }
 }
